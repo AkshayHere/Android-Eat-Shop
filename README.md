@@ -8,6 +8,6 @@ seen.
 
 This is the source code of the Application.
 
-Uses the Web API by the Smart Local https://appsbytsl.com/API/V1/Nearby/Food/H4D3S
+Uses the Web API by the Smart Local https://appsbytsl.com/
 
 Use Android Studio to run the Application
